@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/banner.png" alt="KeebTool — Keychron V1 Max battery monitor + VIA configurator" width="100%">
+  <img src="docs/keebtool-banner.png" alt="KeebTool — Keychron V1 Max battery monitor + VIA configurator" width="100%">
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ control RGB lighting — over the VIA raw-HID protocol. Ships with a small QMK f
 adds a battery read-out command and an Fn+B on-board battery gauge.
 
 <p align="center">
-  <img src="docs/screenshot.png" alt="KeebTool configurator — keymap layers, visual V1 Max layout and keycode picker" width="100%">
+  <img src="docs/keebtool-keymap.png" alt="KeebTool configurator — keymap layers, visual V1 Max layout and keycode picker" width="100%">
 </p>
 
 ## Features
